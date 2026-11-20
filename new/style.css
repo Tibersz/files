@@ -1,0 +1,48 @@
+html {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#brand {
+    font-size: 24px;
+    font-family: "Arial", sans-serif;
+    color: #2b1d16;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.site-nav {
+    display: flex;
+    font-family: "Arial", sans-serif;
+    gap: 1.5rem;
+}
+
+.site-nav a {
+    display: flex;
+    font-family: "Arial", sans-serif;
+    gap: 1.5rem;
+}
+
+#open {
+    font-size: 13.6px;
+    font-family: "Arial", sans-serif;
+    color: #5f5a55;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    border-bottom: #2b1d16 1px solid;
+    background-color: #f4f2ee;
+    padding: x x x x;
+}
+
+#open {
+    margin-left: auto;
+}
+
+.sample {
+    font-family: "Inter", sans-serif;
+}
